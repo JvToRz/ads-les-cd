@@ -200,9 +200,6 @@ git push origin bug
 
 **Repita o passo 3**: Realize uma nova PR e agora veja que o código realiza todo o processo de integração corretamente.
 
-## Créditos
-
-Este roteiro foi elaborado após ajustes e alterações do [roteiro original](https://github.com/aserg-ufmg/demo-ci) elaborado por **Rodrigo Brito**, aluno de mestrado do DCC/UFMG, como parte das suas atividades na disciplina Estágio em Docência, cursada em 2020/2, sob orientação do **Prof. Marco Tulio Valente**.
 
 ## Tarefa #3: Parte A - GitHub Flow
 
@@ -305,3 +302,8 @@ release/1.0.0 -> main
 
 **Repita os passos de 1 a 3** para as novas funcionalidades: `raiz quadrada`, `módulo`, e `porcentagem`. 
 Lembre-se que para cada funcionalidade deve seguir os passos anteriormente elencados.
+
+## Créditos
+
+Este roteiro foi elaborado após ajustes e alterações do [roteiro original](https://github.com/aserg-ufmg/demo-ci) elaborado por **Rodrigo Brito**, aluno de mestrado do DCC/UFMG, como parte das suas atividades na disciplina Estágio em Docência, cursada em 2020/2, sob orientação do **Prof. Marco Tulio Valente**.
+
